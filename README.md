@@ -3,7 +3,7 @@ Implementation of "Xor" function with MLP
 # XOR gate:
 XOR gate (sometimes EOR, or EXOR and pronounced as Exclusive OR) is a digital logic gate that gives a true (1 or HIGH) output when the number of true inputs is odd. It behaves according to the truth table provided below.
 
-<img src="Image/XOR.png" width="200" class="center" />
+<img src="Image/Table.png" width="200" class="center" />
 
 # MultiLayer Perceptron: 
 
