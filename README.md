@@ -14,9 +14,10 @@ A "single-layer" perceptron can't implement XOR. The reason is because the class
 The architecture of network is like the below picture.
 
 <img src="Image/MLP.png" width="300" class="center" />
+
 # Code: 
 
 You can run this code from your terminal/prompt/shell with typing
 ```python
-MLP.py
+Python MLP.py
 ```
